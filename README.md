@@ -1,2 +1,3 @@
 # practice-Project
-This is my first Gitbup Repository
+This is my first Github Repository.
+and Auth.
